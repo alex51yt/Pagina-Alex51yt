@@ -1,1 +1,4 @@
-Aqui van los estilos
+p {
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+}
